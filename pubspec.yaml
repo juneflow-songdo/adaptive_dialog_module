@@ -1,7 +1,7 @@
 name: adaptive_dialog_module
 description: "This Module For Apply Adaptive Dialog Views."
 #publish_to: 'none'
-#repository: https://github.com/melodysdreamj/juneflow
+repository: https://github.com/juneflow-songdo/adaptive_dialog_module
 
 version: 1.0.0
 
