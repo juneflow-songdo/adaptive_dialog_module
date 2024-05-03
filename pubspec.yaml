@@ -1,0 +1,28 @@
+name: adaptive_dialog_module
+description: "This Module For Apply Adaptive Dialog Views."
+#publish_to: 'none'
+#repository: https://github.com/melodysdreamj/juneflow
+
+version: 1.0.0
+
+environment:
+  sdk: '>=3.3.1 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  go_router:
+  june_flow_util:
+
+dev_dependencies:
+  config_theme: #@add
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  assets:
+    - assets/module/config_theme/
+    - assets/module/adaptive_dialog_module/
+  uses-material-design: true
